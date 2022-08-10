@@ -1,0 +1,20 @@
+{
+  "name": "devfbatch17gpoe-oscar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "helloWorld.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Osdgonzalez/devFBatch17GpoE-Oscar.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Osdgonzalez/devFBatch17GpoE-Oscar/issues"
+  },
+  "homepage": "https://github.com/Osdgonzalez/devFBatch17GpoE-Oscar#readme"
+}
