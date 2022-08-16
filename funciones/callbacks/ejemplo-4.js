@@ -9,3 +9,10 @@ function hablar(mensaje , unaFuncion){
         return unaFuncion(mensaje);
     }, 1100)
 }
+
+function adios(mensaje , unaFuncion){
+    setTimeout(() => {
+        return unaFuncion(mensaje);
+    }, 1100)
+}
+
